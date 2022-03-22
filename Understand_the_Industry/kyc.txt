@@ -1,0 +1,19 @@
+KNOW YOUR CUSTOMER
+
+
+	O KYC (Know Your Customer), termo em inglês que significa “Conheça Seu Cliente”, é um conjunto de ações e estratégias dentro das políticas de compliance de uma empresa, e diz respeito à a prevenção da utilização do sistema financeiro para fins ilícitos como a lavagem de dinheiro, financiamento ao terrorismo e fraudes de identidade.
+
+	A lei n. 9.613/98 (Lei dos crimes de lavagem de dinheiro) em seu art. 10º,  prevê como deve ser realizada a identificação dos clientes e manutenção de registros, tal como o Normativo SARA 011/2013 da Federação Brasileira de Bancos (Febraban), em seu artigo 13 e seguintes.
+
+	O conhecimento do cliente é possível mediante o cadastro, que se dá por intermédio da abertura de conta junto ao banco emissor, da manutenção deste cadastro de forma atualizada, identificação das operações bancárias deste cliente, bem como as comunicações feitas ao COAF (Conselho de Controle de Atividades Financeiras), o qual, desde que passou ao comando do Banco Central, passou a se chamar UIF (Unidade de Inteligência Financeira) para detecção de crimes de lavagem de dinheiro.
+
+	As informações essenciais que teremos neste cadastro são:
+
+    • Documentos Oficiais (RG, CPF, CNPJ);
+    • Comprovante de endereço;
+    • Profissão ou ramo de atividade;
+    • Grau de escolaridade;
+    • Patrimônio;
+    • Comprovação de renda mensal (Pessoa Física) ou de faturamento (Pessoa Jurídica).
+
+	Tal procedimento tem por objetivo evitar a ocorrência de chargeback, termo inglês que significa estorno.

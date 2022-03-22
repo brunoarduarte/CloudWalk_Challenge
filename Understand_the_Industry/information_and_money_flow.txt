@@ -1,0 +1,29 @@
+FLUXO DE INFORMAÇÕES E DINHEIRO NO MERCADO DE PAGAMENTOS
+
+
+Adquirentes
+
+
+	São empresas que processam e liquidam transações financeiras por meios de cartões de débito e crédito. As adquirentes, também conhecidas como operadoras de cartões de crédito, se comunicam com bandeiras de cartões e bancos emissores.
+
+	Nos comércios físicos a adquirente é contratada diretamente pelo lojista a quem será fornecida a maquininha de cartão.
+
+	No e-commerce, esta tecnologia também pode ser contratada. Entretanto, esta solução não é a mais adequada para este modelo de negócio. O ideal é que seja contratada uma solução que faça a mediação com a adquirente, que é o caso da subadquirente.
+
+    • Fluxo de dinheiro: Quando a compra é aprovada, a adquirente recebe o dinheiro do banco e repassa ao comerciante no prazo contratual (normalmente, de até 31 dias - D+30). As taxas são cobradas sobre as transações realizadas e podem variar de 3% a 6%. Cabe ressaltar que na infinitypay o pagamento ocorre em 1 dia útil (D+1), com taxas a partir de 1,44%, dispondo de facilidades como link de pagamento e loja online.
+
+
+Subadquirentes
+
+
+	Funcionam como uma intermediadora de pagamentos. Ela é habilitada pelas adquirentes para fazer a conexão entre os clientes, lojistas, bandeiras e bancos emissores. Ela é responsável por transmitir os dados da transação à adquirente e liquidar os recebíveis junto ao varejista. Sua integração às lojas virtuais é mais simples em virtude do “plug and play”. Basta contratar e começar a usar os serviços. São oferecidos serviços complementares vitais para transações online, como o antifraude.
+
+    • O Fluxo de dinheiro é semelhante às adquirentes.
+
+
+
+Gateways
+
+	Funciona como uma ponte que transporta informações entre comerciantes, adquirentes e bancos emissores. Seu papel é processar os dados no momento em que a compra é finalizada. Ele é completamente customizável, com possibilidade de integração com uma ou mais adquirentes, com vouchers, além de boletos bancários e sistemas de antifraude.
+
+    • Fluxo de dinheiro: A cobrança é feita com base no recebimento por volume de transações, além de um piso mínimo mensal, bem como o custo de implementação.
