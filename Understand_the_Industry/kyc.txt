@@ -16,4 +16,4 @@ KNOW YOUR CUSTOMER
     • Patrimônio;
     • Comprovação de renda mensal (Pessoa Física) ou de faturamento (Pessoa Jurídica).
 
-	Tal procedimento tem por objetivo evitar a ocorrência de chargeback, termo inglês que significa estorno.
+	Tal procedimento também tem por objetivo evitar a ocorrência de chargeback, termo inglês que significa estorno.
