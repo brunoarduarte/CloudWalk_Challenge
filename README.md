@@ -58,3 +58,4 @@ bkotest-main folder in the project root.
 - Open the queries.sql file inside the Get_your_hands_dirty folder. 
 Initially run the first three queries to create the VIEWS (`vw_relatorio_data_compra`, `vw_relatorio_data_aprovacao` and `vw_relatorio_completo`).
 - With the VIEWS properly processed, the other queries can be executed to obtain, in this order, the average of approval times, maximum time and minimum time.
+- The answers to the tasks in item 3.1 - Understand the Industry are in the folder with the same name as the task. It's possible to open files in '.txt' format directly in VS Code. However, it is recommended to open the files in '.pdf', clicking with the right button on the file, selecting open folder that contains and opening the file with the reader of your choice.
