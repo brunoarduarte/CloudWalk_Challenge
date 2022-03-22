@@ -23,10 +23,10 @@ ON VW1.user_id = VW2.USER_ID
 HAVING tempo_aprovacao > 0;
 
 -- Query que retorna a média de tempo de aprovação
-SELECT TIME_FORMAT(SEC_TO_TIME(AVG(TIME_TO_SEC(tempo_aprovacao))), '%H:%i') FROM `vw_relatorio_completo`;
+SELECT TIME_FORMAT(SEC_TO_TIME(AVG(TIME_TO_SEC(tempo_aprovacao))), '%H:%i') AS tempo_médio FROM `vw_relatorio_completo`;
 
 -- Query que retorna o tempo máximo de aprovação
-SELECT TIME_FORMAT(SEC_TO_TIME(MAX(TIME_TO_SEC(tempo_aprovacao))), '%H:%i') FROM `vw_relatorio_completo`;
+SELECT TIME_FORMAT(SEC_TO_TIME(MAX(TIME_TO_SEC(tempo_aprovacao))), '%H:%i') AS tempo_máximo FROM `vw_relatorio_completo`;
 
 -- Query que retorna o tempo mínimo de aprovação
-SELECT TIME_FORMAT(SEC_TO_TIME(MIN(TIME_TO_SEC(tempo_aprovacao))), '%H:%i') FROM `vw_relatorio_completo`;
+SELECT TIME_FORMAT(SEC_TO_TIME(MIN(TIME_TO_SEC(tempo_aprovacao))), '%H:%i') AS tempo_mínimo FROM `vw_relatorio_completo`;
